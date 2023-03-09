@@ -20,3 +20,11 @@ Online: [https://qa-test-one.vercel.app/](https://qa-test-one.vercel.app/)
 ### The God Who Communicates
 
 - [[Oral-Literate Training Curriculum Materials/5x5 Training Curriculum/The God Who Communicates/1- The God Who Communicates\|1- The God Who Communicates]]
+
+
+---
+## Embeds
+
+<iframe src="https://www.canva.com/design/DAFFwp15fwc/view" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 13 / 32; "></iframe>
+
+<iframe title="Ben-Hur (10/10) Movie CLIP - Ramming Speed! (1959) HD" src="https://www.youtube.com/embed/AjmbgZ2wZvk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
