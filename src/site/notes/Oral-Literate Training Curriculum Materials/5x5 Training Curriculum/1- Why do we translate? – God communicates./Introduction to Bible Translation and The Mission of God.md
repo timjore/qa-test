@@ -125,3 +125,6 @@ This idea helps us understand how we use languages in our communities and in int
 In the story about Jesus and Jairus's daughter, we see this mixture of languages. The story in Mark's gospel was written in the Greek language, but Jesus' words are there in the Aramaic language. Hebrew and Latin are two other languages used in the ecosystem in which Jesus lived (see John 19:20). 
 
 **Discussion:** What are the languages spoken in the ecosystem of your communities? To what extent is Tok Pisin or English spoken and understood? In what ways are Tok Pisin and English impacting other languages in your communities? What languages are practiced in your churches? What implications do you see for the translation of the Bible in your communities? 
+
+---
+→ Next page: [[Oral-Literate Training Curriculum Materials/5x5 Training Curriculum/1- Why do we translate? – God communicates./Why do we translate?\|Why do we translate?]]
